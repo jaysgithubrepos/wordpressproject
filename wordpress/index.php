@@ -1,4 +1,3 @@
-
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
@@ -13,7 +12,6 @@
  * @var bool
  */
 define( 'WP_USE_THEMES', true );
-/** lEARNING GIT */
 
 /** Loads the WordPress Environment and Template */
 require __DIR__ . '/wp-blog-header.php';
